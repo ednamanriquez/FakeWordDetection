@@ -38,6 +38,5 @@ class Node {
   void sort_Vector(vector<Node*> &freq, int n);
   void printMistakes(vector<Node*> &freq, ofstream& mistakes, int num);
 
-
 #endif
 
